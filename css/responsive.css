@@ -393,7 +393,10 @@
     color: #f07f0d !important; /* This makes only the text within the <span> orange */
 }
 
-
+.orange-bg {
+    background-color: #f07f0d;
+    padding: 3px;
+}
 .highlight {
     color: #f07f0d !important; /* This makes only the text within the <span> orange */
 }

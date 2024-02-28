@@ -420,6 +420,11 @@ li{
     width: 30px;
 }
 
+.orange-bg {
+    background-color: #f07f0d;
+    padding: 3px 5px 3px 5px;
+}
+
 /*____Thm Btn5___ */
 .thm-btn5{
     position: relative;
