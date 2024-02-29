@@ -12530,9 +12530,9 @@ box-shadow: 0px 0px 15px 4px #ECECEC;
 }
 .hihlights-area .outer-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 .single-hihlights-box{
@@ -12558,7 +12558,9 @@ box-shadow: 0px 0px 15px 4px #ECECEC;
     z-index: -1;
 }
 .single-hihlights-box.style1{
-    background: #513b9f;    
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: 50px;
 }
 .single-hihlights-box.style1 .shape1{
     position: absolute;
@@ -12579,8 +12581,11 @@ box-shadow: 0px 0px 15px 4px #ECECEC;
 
 
 .single-hihlights-box.style2{
-    background: #f07f0d;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: 50px;
 }
+
 .single-hihlights-box.style2 .shape1{
     position: absolute;
     left: 40px;
@@ -12603,8 +12608,11 @@ box-shadow: 0px 0px 15px 4px #ECECEC;
 
 
 .single-hihlights-box.style3{
-    background: #f8c823;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: 50px;
 }
+
 .single-hihlights-box.style3 .shape1{
     position: absolute;
     left: 40px;

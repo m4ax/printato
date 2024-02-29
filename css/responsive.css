@@ -395,7 +395,6 @@
 
 .orange-bg {
     background-color: #c86502;
-    padding: 3px;
 }
 .highlight {
     color: #f07f0d !important; /* This makes only the text within the <span> orange */
@@ -2175,6 +2174,7 @@
 .single-testimonial-style3 .text {
     text-align: center;
 }    
+
     
 /*** Latest Blog Style3 Area Css ***/
 .latest-blog-style3-area .sec-title-style3 {
