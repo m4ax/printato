@@ -2535,14 +2535,16 @@
 .footer-style6-contact-details ul li.maxwidth626 {
     max-width: 100%;
 }    
-/*** Footer Bottom Area Style6 Css ***/  
+
 .footer-bottom-content-style6 {
+    display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
-    text-align: center;
-}    
-    
+}
+
+
     
     
     
