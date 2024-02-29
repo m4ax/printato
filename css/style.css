@@ -12121,7 +12121,7 @@ box-shadow: 0px 0px 15px 4px #ECECEC;
 }
 .main-header.style6.fixed-header {
     padding: 25px 0;
-    background: rgba(0, 0, 0, 0.90);
+    background: rgb(0 0 0 / 0%);
     box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 .main-header.style6 .header-upper-style6{
@@ -12585,6 +12585,20 @@ box-shadow: 0px 0px 15px 4px #ECECEC;
     border-radius: 10px;
     margin: 50px;
 }
+
+.instructions-title {
+    color: white;
+    font-size: 1.8rem;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+
+.instructions-p {
+    color: white;
+    font-size: 1rem;
+}
+
 
 .single-hihlights-box.style2 .shape1{
     position: absolute;
