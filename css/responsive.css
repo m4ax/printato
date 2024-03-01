@@ -1128,6 +1128,7 @@
 .hihlights-area .outer-container {
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }    
 /*** Skill Area Css ***/      
 .skill-content {
@@ -2481,6 +2482,7 @@
 .hihlights-area .outer-container {
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }    
 /*** Skill Area Css ***/      
 .skill-content {
